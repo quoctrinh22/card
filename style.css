@@ -16,7 +16,7 @@ body {
 
 .card {
   position: relative;
-  background-color: black;
+  background-color: #243137;
   width: 300px;
   height: 200px;
   display: flex;
@@ -96,7 +96,7 @@ body {
 }
 .card__box .item__3 {
   text-transform: uppercase;
-  background-color: black;
+  background-color: #243137;
   padding: 0 5px;
   transform: translateY(480%) scale(2);
   opacity: 0;
